@@ -1,3 +1,3 @@
 - Hi 👋, I’m @Yoka18 secondary name is OfluKing and inmisin.
 - I’m interested in computer games, programming, design.
-- I’m currently learning Javascript, React Native.
+- I’m currently learning Javascript <img src="https://img.icons8.com/color/16/000000/javascript--v1.png"/>, React Native <img src="https://img.icons8.com/color/16/000000/react-native.png"/>.
