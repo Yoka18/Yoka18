@@ -1,0 +1,3 @@
+- Hi 👋, I’m @Yoka18 secondary name is OfluKing and inmisin.
+- I’m interested in computer games, programming, design.
+- I’m currently learning Javascript, C#.
