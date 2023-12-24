@@ -1,6 +1,5 @@
 # About my self
 
-- Hi 👋, I’m @Yoka18 secondary name is OfluKing and inmisin.
-- I’m interested in computer games, programming, design.
-- I'm designing websites now.
-- My future plan is create a game, work somethink big project.
+- Hi 👋, I’m @Yoka18, my secondary name is inmisin.
+- My interests include Machine Learning and Game Development.
+- Assembly also interests me, but it's a bit challenging for me at the moment.
